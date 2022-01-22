@@ -4,7 +4,7 @@
 <img src="Images/mars.jfif" align="center" width="200px"/>
 <br clear="center"/>
 
-<img src="Images/results.png" align="right" width="275px"/>
+<img src="Images/BTC.png" align="right" width="275px"/>
 
 #
 
